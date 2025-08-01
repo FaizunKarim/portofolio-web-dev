@@ -1,6 +1,3 @@
-import { Code, Database, Smartphone, Cloud } from "lucide-react";
-import { Card, CardContent } from "@/components/ui/card";
-
 const About = () => {
   return (
     <section id="about" className="py-20 bg-background">
