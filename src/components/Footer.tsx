@@ -87,7 +87,7 @@ const Footer = () => {
                   Izunkarim1@gmail.com</a>
               </p>
               <p>
-                <a href="wa.me/6285236990320" className="hover:underline">
+                <a href="http://wa.me/6285236990320" className="hover:underline">
                   +62 812-3456-7890</a>
               </p>
               <p>Surabaya, Indonesia</p>
