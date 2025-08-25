@@ -14,26 +14,26 @@ const Portfolio = () => {
       image: project1,
       technologies: ["HTML", "Node.js", "Typescript", "Tailwind", "Supabase"],
       github: "#",
-      demo: "#",
+      demo: "https://english-learning-website-two.vercel.app/",
       featured: true
     },
     {
       title: "Tebak Negara",
       description: "Aplikasi mobile untuk tebak-tebakan negara dengan pertanyaan seputar negara, seperti Geografi negara, Julukan Negara, dan informasi menarik lainnya.",
       image: project2,
-      technologies: ["Kotlin", "Javascript", "Xml"],
+      technologies: ["Kotlin", "Xml"],
       github: "#",
       demo: "#",
       featured: true
     },
     {
-      title: "Data Analytics Platform",
-      description: "Platform visualisasi data dengan real-time charts, custom reports, dan machine learning insights.",
+      title: "SMAN 11 Surabaya Web Profile",
+      description: "Website profil SMAN 11 Surabaya yang berisi informasi lengkap tentang profil sekolah, sejarah, identitas, dan struktur kepemimpinan sekolah.",
       image: project3,
-      technologies: ["Typescript", "Vite", "React", "Tailwind", "Chart.js"],
+      technologies: ["Typescript", "Vite", "React", "Tailwind"],
       github: "#",
-      demo: "#",
-      featured: false
+      demo: "https://sman11-sby.vercel.app/",
+      featured: true
     }
   ];
 
@@ -45,7 +45,7 @@ const Portfolio = () => {
             Portfolio <span className="bg-gradient-primary bg-clip-text text-transparent">Projects</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Beberapa project terbaru yang telah saya kerjakan dengan berbagai teknologi modern.
+            Beberapa project terbaru yang telah saya kerjakan.
           </p>
         </div>
 
