@@ -4,7 +4,7 @@ import { Badge } from "@/components/ui/badge";
 import { Github, ExternalLink } from "lucide-react";
 import project1 from "@/assets/project 1.png";
 import project2 from "@/assets/project 2.png";
-import project3 from "@/assets/project 3.png";
+import project3 from "@/assets/project3.png";
 
 const Portfolio = () => {
   const projects = [
