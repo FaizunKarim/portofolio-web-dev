@@ -1,7 +1,7 @@
 # Portofolio
 
 ## Muhammad Faizun Karim
-Halo! Saya adalah seorang web developer yang bersemangat dalam menciptakan solusi web yang inovatif dan fungsional. Portofolio ini adalah representasi dari proyek-proyek dan keterampilan yang telah saya kembangkan dalam perjalanan saya dalam dunia pengembangan web dan software.
+Saya adalah seorang web developer yang terampil dalam membuat website yang inovatif dan fungsional. Portofolio ini adalah representasi dari proyek-proyek dan keterampilan yang telah saya kembangkan dalam perjalanan saya dalam dunia pengembangan web dan software.
 
 ## Isi Portofolio
 
